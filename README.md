@@ -11,3 +11,7 @@ https://threatresearch.ext.hp.com/aggah-campaigns-latest-tactics-victimology-pow
 https://www.deepinstinct.com/blog/aghast-at-aggah-teasing-security-controls-with-advanced-evasion-techniques
 
 https://yoroi.company/research/serverless-infostealer-delivered-in-est-european-countries/
+
+https://yoroi.company/research/the-wayback-campaign-a-large-scale-operation-hiding-in-plain-sight/
+
+https://www.anomali.com/blog/aggah-using-compromised-websites-to-target-businesses-across-asia-including-taiwan-manufacturing-industry
