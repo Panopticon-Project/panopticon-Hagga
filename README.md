@@ -15,3 +15,9 @@ https://yoroi.company/research/serverless-infostealer-delivered-in-est-european-
 https://yoroi.company/research/the-wayback-campaign-a-large-scale-operation-hiding-in-plain-sight/
 
 https://www.anomali.com/blog/aggah-using-compromised-websites-to-target-businesses-across-asia-including-taiwan-manufacturing-industry
+
+https://marcoramilli.com/2022/11/21/is-hagga-threat-actor-abusing-fsociety-framework
+
+https://www.team-cymru.com/post/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor
+
+https://github.com/Manisso/fsociety - tools they've been using
